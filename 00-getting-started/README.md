@@ -10,3 +10,4 @@ The Pi-4 is neat as a battery hat from Waveshare makes it self-contained. The Pi
 
 `sudo apt install alsa-utils autoconf automake bison build-essential espeak gcc git libasound2-dev libtool mplayer`
 
+The Pi is now baselined and ready for further tasks.
