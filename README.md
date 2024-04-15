@@ -17,3 +17,5 @@ From visions in 1987 to initial scoping in 2003, not until 2024 has a programmin
 ### Tasks
 
 * Create a glossary of the words that will be required by the instance. [Here](https://forth-standard.org/standard/core) is an example.
+* Enable the correct vocabulary that initates _control_.
+* Enable an appropriate vocabulary that mitgates _choice_.
