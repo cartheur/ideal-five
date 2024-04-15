@@ -16,6 +16,8 @@ From visions in 1987 to initial scoping in 2003, not until 2024 has a programmin
 
 ### Tasks
 
-* Create a glossary of the words that will be required by the instance. [Here](https://forth-standard.org/standard/core) is an example.
+* Construct a glossary of _words_ required by the instance. [Here](https://forth-standard.org/standard/core) is an example, if not outdated.
 * Enable the correct vocabulary that initates _control_.
 * Enable an appropriate vocabulary that mitgates _choice_.
+* Enable an appropriate vocabulary that allows external hardware.
+* Define the correlation of MPU6050 streaming data covering six dimensions, two volumes to predict the ninth (third).
